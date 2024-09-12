@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b8cab85e1fed1d48986255bc7aaa4ba, type: 3}
+  m_Name: LevelTest
+  m_EditorClassIdentifier: 
+  ObjectsToInstantiate:
+  - {fileID: 2135912400233000548, guid: f4b2291c20cee22428500407c01ada42, type: 3}
+  - {fileID: 6356184109424417630, guid: 66958fc187a7aa647b3944280886ff91, type: 3}
+  - {fileID: 5376594749363982508, guid: 471ce69cf6d5d9947a13a9d28a79839f, type: 3}
+  - {fileID: 7766286300884432489, guid: df4c88e48aad1f348894aab036ca220f, type: 3}
+  - {fileID: 3031499220109600687, guid: 756a355606afb6e4bab8286f09aa8083, type: 3}
+  - {fileID: 4918550024316920704, guid: 563a5e0e73e19cc41857594fa86b3bd0, type: 3}
+  - {fileID: 5686110831391651326, guid: 30ba6354d7edf074aa274c22d22f8888, type: 3}
+  - {fileID: 4099009630870654643, guid: d3d1a58df5f2c264696a698a8f69602a, type: 3}
+  - {fileID: 6569565146698740270, guid: b76ce1c195355294c8fb9c62a9a3ac3a, type: 3}
+  - {fileID: 3915685084798742317, guid: d13c285bb72356442bf2a5e07385429b, type: 3}
+  - {fileID: 3494323483618649549, guid: 291c1bffb514bc1419d49d917ef2ea6f, type: 3}
+  - {fileID: 673763238132859874, guid: f37d82ce1e4998a48a812ea3a6f87644, type: 3}
+  - {fileID: 2940858921662330079, guid: 87c4896fa032b3443874bb6733b1fbc9, type: 3}
+  - {fileID: 7947813942878685701, guid: 1625f477f1f337e47a9141b618fbafa6, type: 3}
+  - {fileID: 412440796688781303, guid: 9240275f0ce47c647a7e702a1986725c, type: 3}
+  isRandom: 0
+  truckPrefab: {fileID: 6779486077625170382, guid: ac8924dc1bb197f4480239a7924c084f, type: 3}
+  initialArea:
+    m_Position: {x: 0, y: 0, z: 0}
+    m_Size: {x: 5, y: 5, z: 1}
+  objectsAmount: 15

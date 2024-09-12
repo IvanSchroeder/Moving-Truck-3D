@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b8cab85e1fed1d48986255bc7aaa4ba, type: 3}
+  m_Name: Level03
+  m_EditorClassIdentifier: 
+  ObjectsToInstantiate:
+  - {fileID: 5376594749363982508, guid: 471ce69cf6d5d9947a13a9d28a79839f, type: 3}
+  - {fileID: 4918550024316920704, guid: 563a5e0e73e19cc41857594fa86b3bd0, type: 3}
+  - {fileID: 7947813942878685701, guid: 1625f477f1f337e47a9141b618fbafa6, type: 3}
+  - {fileID: 6569565146698740270, guid: b76ce1c195355294c8fb9c62a9a3ac3a, type: 3}
+  - {fileID: 4099009630870654643, guid: d3d1a58df5f2c264696a698a8f69602a, type: 3}
+  - {fileID: 5686110831391651326, guid: 30ba6354d7edf074aa274c22d22f8888, type: 3}
+  isRandom: 0
+  truckPrefab: {fileID: 5820467800749126245, guid: d6d4cc91d604d954caea56d4e149f8f0, type: 3}
+  initialArea:
+    m_Position: {x: 0, y: 0, z: 0}
+    m_Size: {x: 3, y: 7, z: 1}
+  objectsAmount: 6

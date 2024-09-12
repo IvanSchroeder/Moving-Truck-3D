@@ -1,0 +1,4 @@
+repository "MovingTruckURP@Brothex_SRL_2@cloud"
+  path "/"
+    br "/main"
+    co "/main"

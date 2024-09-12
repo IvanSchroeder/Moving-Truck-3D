@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b8cab85e1fed1d48986255bc7aaa4ba, type: 3}
+  m_Name: Level01Tutorial
+  m_EditorClassIdentifier: 
+  ObjectsToInstantiate:
+  - {fileID: 6356184109424417630, guid: 66958fc187a7aa647b3944280886ff91, type: 3}
+  - {fileID: 5376594749363982508, guid: 471ce69cf6d5d9947a13a9d28a79839f, type: 3}
+  - {fileID: 412440796688781303, guid: 9240275f0ce47c647a7e702a1986725c, type: 3}
+  hasTutorial: 1
+  tutorialScreen: {fileID: 7698946123140346634, guid: 01a23e7c93a6fa74d921256c1c9f20ed, type: 3}
+  truckPrefab: {fileID: 2690678472192839525, guid: 1885a75b788d0804281f1d48cc2d52cc, type: 3}
+  initialArea:
+    m_Position: {x: 0, y: 0, z: 0}
+    m_Size: {x: 3, y: 4, z: 1}
+  objectsAmount: 3
